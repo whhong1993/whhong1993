@@ -1,5 +1,5 @@
 # whhong1993 （HUAZI） 😃
-**A Simple Coder - Code & Poetry.  **
+A Simple Coder - Code & Poetry. 
 
 ## 🧐 About
 - Front-end development using **HTML, CSS, Vue, Js, SemanticUI**
