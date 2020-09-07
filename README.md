@@ -1,16 +1,18 @@
-### Hi there 👋
+# whhong1993 （HUAZI） 😃
+**A Simple Coder - Code & Poetry.  **
 
-<!--
-**whhong1993/whhong1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
+- Front-end development using **HTML, CSS, Vue, Js, SemanticUI**
+- Backend development using **PHP, C, Golang**
+- Main framework using **Laravel, CI, TP, Beego**
+- DataBase development using **Mysql, MSSqlServer, MangoDB, Redis**
+- Version Controller tools useing **Git, SVN**
+- Other Skills like: **Linux, Docker, ES ...**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email- whhong1993@163.com
+- Blog - [huaziking](https://www.huaziking.com)
+
+---
+⭐️ From [whhong1993](https://github.com/whhong1993)
